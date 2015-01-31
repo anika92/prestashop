@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README
 ======
 ![PrestaShop](http://www.prestashop.com/images/banners/general/banner-github_728x90.png "PrestaShop")
@@ -65,3 +66,6 @@ Thank you for downloading and using the PrestaShop e-commerce Open-source soluti
 [6]: http://doc.prestashop.com
 [7]: CONTRIBUTING.md
 [8]: http://doc.prestashop.com/display/PS16/Contributing+to+PrestaShop
+=======
+# prestashop
+>>>>>>> 3f3bd015c9e3362e4352e07f4428919fbcc33174
